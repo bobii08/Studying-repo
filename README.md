@@ -1,2 +1,2 @@
 # Studying-repo
-In here you can find almost every code I've done for studying purposes.
+In here you can find some of the code I've done for studying purposes.
